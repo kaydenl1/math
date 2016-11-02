@@ -14,6 +14,7 @@ public class Main{
       Inverse.desc();
     }
     else if (in.equals("Derivative")){
-    
+      Derivative.desc();
+    }
   }
 }
