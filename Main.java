@@ -11,7 +11,7 @@ public class Main{
   String in = input.nextLine();
   
     if (in.equals("Inverse")){
-      Inverse.desc();
+      Inverses.desc();
     }
     else if (in.equals("Derivative")){
       Derivative.desc();

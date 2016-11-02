@@ -1,4 +1,4 @@
-class Derivative(){
+class Derivative{
   
   public static void desc(){
 
